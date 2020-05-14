@@ -1,0 +1,25 @@
+{
+  "name": "tareasnodejs",
+  "version": "1.0.0",
+  "description": "Task en Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrneurus/tareasNodeJs.git"
+  },
+  "author": "mrneurus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrneurus/tareasNodeJs/issues"
+  },
+  "homepage": "https://github.com/mrneurus/tareasNodeJs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
